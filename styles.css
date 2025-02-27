@@ -1,0 +1,42 @@
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+#bg-btn {
+    background-color: lightcoral;
+}
+
+#time-btn {
+    background-color: lightseagreen;
+}
+
+#msg-btn {
+    background-color: lightskyblue;
+}
+
+#text-color-btn {
+    background-color: lightgoldenrodyellow;
+}
+
+#reset-btn {
+    background-color: lightgray;
+}
+
+#quote-btn {
+    background-color: lightpink;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
